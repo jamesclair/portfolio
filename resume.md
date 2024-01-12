@@ -1,0 +1,170 @@
+<div style="text-align: center;">
+
+# Jim Clair BSCS, CISSP, Veteran</br>
+## Cloud Software Engineer</br>
+
+[Email](mailto:clair.james88@gmail.com) | 
+[Phone](tel:19136459996) | 
+[GitHub](https://github.com/jimclair) |
+[LinkedIn](https://www.linkedin.com/in/jim-clair-49637089)
+
+</div>
+
+With 18 years of experience in engineering, operations, and security, I specialize in cloud-native platforms, microservice architectures, enterprise infrastructure, and scalable data pipelines. My background in all aspects of software engineering allows me to drive successful projects and mentor teams to achieve excellence.
+
+### EXPERIENCE
+
+#### Senior Software Engineer - Data Platform & Pipeline</br>
+
+Jul 2023 - Jan 2024; Select Star Inc. (Remote)
+
+Designing, refactoring, building, securing and supporting enterprise pipeline and platform with a focus on collection, ingestion, processing and analysis of Datawarehouse and Business Ingelligence data.
+
+**Achievements:** Enabled asyncronous and parallel data collection and ingestion. Improve pipeline testability with ingested batch persistence layer.  Introduced ability to combine multiple parsing engines. Designed foundations of next-gen scalable data pipeline architecture. Up to 700% load-time optimization of multiple web pages backed by SQL.
+
+**Skills:** *Django, Celery, Python, Kubernetes, AWS, Docker, PostgreSQL, Prometheus, Grafana, Sentry, Snowflake, Redshift, Github Actions, Git, Bash, Terraform, Swagger, Postman, REST, Vanta*
+
+---
+
+#### Staff Integration Engineer</br>
+
+Feb 2023 - Jun 2023; Solv. (Remote)
+
+Led and mentored team in new greenfield development initiative to create a cloud-native scalable integration platform.
+
+**Achievements:** Created unified DevEx provisioning to serve as the foundations of next generation platform. Partner refactor of Athena scheduling api integrations.  Introduced Sentry Cron alerting for long running integration jobs. 
+
+**Skills:** *Python, Docker, Heroku, REACT, Grafana, Prometheus, Athena, Sentry, PostgreSQL, Confluence, Jira, Postman, REST, HIPAA, SOC2*
+
+---
+
+#### Tech Lead Cloud Platform Engineering</br>
+
+Aug 2018 - Sep 2022 - LogRhythm Inc. (Remote)
+
+Created, led, and mentored a team of highly skilled engineers while researching, designing, and implementing industry best practice tools and frameworks. Building a cost-effective, highly-available and scalable, multi-tenant platform, pipeline, and infrastructure supporting up to a million messages per second.
+
+**Achievements:** Lead the technical development of infrastructure for the new Axon cloud-native platform over 3.5 years with a public launch in early 2022.  Developed comprehensive Kubernetes Operators for Opensearch, Flink, and LogRhythm Microservices/Microfrontends.  Created a high performance multi-tenant data pipeline with enterprise service bus, self-serve domain-specific relational databases, central time-series and tiered storage nosql database, and tenant specific real-time analytics job clusters.  Implemented fully secure and automated development golden paths for localdev and CICD. Automated creation, re-creation and configuration of templated GitOps infrastructure as code environments and platforms.  Full migration and integration of newly acquired Mistnet software into gold standard CICD and platform.  Providing best practice secure and public access to APIs and WebUIs through identity federated role-based access. Founded and staffed "Colossus of Cloud", a team of highly successful and skilled engineers.  Earned my Bachelor's in Computer Science and completed the complete data science bootcamp on Udemy.
+
+**Skills:** *Kubernetes, AWS, Terraform, ArgoCD, Ansible,  SQL, Docker, Python, Javascript, Yeoman, Golang, Bash, KubeBuilder, Elastic/Opensearch, Kafka, Strimzi, PostgreSQL, Zalando, Flink, Quarkus, Java, Maven, GitHub Actions, Git, Istio, Vault, Prometheus, Grafana, Loki, Keycloak, Okta, GoPass, External Secrets, Certificates Manager, HAProxy, Jaeger, Pomerium, LogRhythm, *Nix, Salt, Veracode, REST, Kiali, Sysdig, Powershell, Jinja, EJS, RegEx, Lets Encrypt, Wireshark, Yarn, Mistnet, Confluence, Jira, Rally, Postman, Zero Trust Architecture, SOC2, FedRAMP*
+
+---
+
+#### Cloud DevOps Engineer III</br>
+
+Jul 2017 - Aug 2018 - LogRhythm Inc. (Hybrid)
+
+Served as LogRhythm product expert on DevOps team while migrating LogRhythm’s core services to a SAAS offering hosted on Google Cloud Platform.
+
+**Achievements:** Developed de facto reference architecture and sizing guides for new cloud service offering.  Automated deployment of LogRhythm core services to Google Cloud Compute environment within targeted profit margins.  Earned certifications in DevOps foundations, ITIL service management, Oracle SQL, and web development.
+
+**Skills:** *Google Cloud, Rundeck, LogRhythm, Consul, Telegraph, InfluxDB, Grafana, SQL Server, Elasticsearch, Ansible, Python, Apache HTTP Server, Salt, Linux, Windows Server, RegEx, Lets Encrypt, Wireshark, Confluence, Jira, REST*
+
+---
+
+#### Global Technical Release Manager</br>
+
+April 2016 - July 2017 - LogRhythm Inc. (Hybrid)
+
+Delivered software to customers and internal teams through the development of documentation, feedback, User Acceptance Testing, bug management, and release consulting.  Served part-time TierIV escalations engineer contributing directly to the development of the core product.
+
+**Achievements:** Successfully revived and rebuilt the Early Access Beta Program into a cross-organization effort that incrementally introduced software releases while gaining early feedback and re-establishing customer trust.  Developed FIPS configuration, High Availability, and Disaster Recovery guides for new next generation deployment architectures.  Created Splunk Integration Guide allowing bulk exportation of data from Splunk to LogRhythm and easing the process of migration from our competitor.  Co-Rebuilt the Release Champion Program tripling internal content contributions, improving cross-organizational relationships, and chopping our release cycle down from 1 year to 6 months.  Co-Managed over 4 new product launches, 5 major and 23 minor relases.  Authored Threat Intelligence Provider Service and LogRhythm SIEM to CloudAI integration guides.  Continuously provided consultation and optimizations helping to scale beyond the 200k and 300k Messages Per Second benchmarks.  Co-Authored and led tiger team in the creation of a comprehensive Advanced Intelligence Engine best practice guide.  Earned certifications in Project+.
+
+**Skills:** *LogRhythm Advanced Intelligence Engine, Splunk, CloudAI, Windows Server, Elasticsearch, PowerShell, Bash, Python, REST, STIX/TAXII, Postman, FIPS, HIPAA, PCI, NIST CSF, Behavioral Analytics, Threat Intelligence Services, Crystal Reports, C2 Auditing, Alarm and Event Mangagement, Syslog, API collection, database collection, file collection, stream collection, data processing analytics and management*
+
+---
+
+#### Enterprise Team Lead & Senior Professional Services Consultant</br>
+
+October 2014 - March 2016 - LogRhythm Inc. (Boulder, CO)
+
+Led team that designed, operated, and scaled Security Operations Centers for large enterprise customers. Overcame some of the company’s toughest projects through carefully crafted solution architectures. Provided team management, mentorship, training, and guidance.
+
+**Achievements:** Successfully lead LogRhythm's largest enterprise deployment consisting of more than 30 Data Indexer, 28 Data processor, 4 Platform Manager, 4 Event Manager, 4 Advance Intelligence Engine(AIE), 4 Metadata, 4 Archival, and 4 Network Monitor servers over the course of a year, reaching 100k and 150k Messages Per Second(MPS) ingestion benchmarks.  Significantly reduced correlation gaps in Advanced Intelligence Engine for customers exceeding 90k MPS limit by developing framework for routing events to proper Engine on a per use-case basis.  Invented the Data Dictionary to help customers categorize parsed metadata from hundreds of supported logging sources. Created the TTL Projection Tool to calculate storage usage and requirements based on logging rates and average log sizes. Developed and published the [Alarm Best Practices Database and Guide](https://docs.logrhythm.com/kbmodules/docs/logrhythm-diagnostic-module-user-guide) to provide and maintain recommended steps for pre-defined alarms a customer may receive.
+
+
+**Skills:** *LogRhythm, SQL Server, Elasticsearch, Access, Powershell, Bash, Windows Server, FIPS, HIPAA, PCI, NIST CSF, NIST 800-53, ISO 27001, Behavioral Analytics, Crystal Reports, C2 Auditing, Alarm and Event Mangagement, Syslog, API collection, database collection, file collection, stream collection, data processing analytics and management*
+
+---
+
+#### SIEM Engineer II</br>
+April 2014 – October 2014 - Fishnet Security Inc. - Overland Park, KS
+
+Administration, on-boarding, and security consulting for enterprise customers. Improved internal integration services and aided customers in implementing lasting change in their incident, security, and operational processes.
+
+**Achievements:** Co-Designed comprehensive SIEM/tool agnostic threat defense framework for categorizing customer assets into groups based on their risk and function.  Successfully On-boarded over 12 enterprise SIEM customers each with different architectures, compliances, and use-cases.  Earned 2 certification in LogRhythm.
+
+**Skills:** *LogRhythm, McAfee Nitro, Qradar, IBM Arcsight, SQL Server, compliance consulting, onboarding and integrations, cybersecurity framework creation and implementation*
+
+---
+
+#### SOC Escalations Engineer</br>
+July 2012 – April 2014 - FISHNET SECURITY INC. - Overland Park, KS
+
+Supported enterprise customers with a multitude of perimeter security products.
+
+**Achievements:** Became sole crossbeam expert and well-known for my firewall kernel debugging expertise.  Earned 11 certifications including my CISSP in ISC2, Microsoft, Cisco, Palo Alto, Bluecoat, and Checkpoint.
+
+**Skills:** *Checkpoint, Palo Alto, JunOS, F5, Semantec, Cisco, BlueCoat, Fortinet, Crossbeam, Bash, Linux*
+
+---
+
+#### Network Security Administrator</br>
+Jan 2011 – Mar 2012 - Pro Air Inc. – Olathe, KS
+
+Small Business Network and Security Administration while attending night school for cyber security.
+
+**Achievements:** Earned certifications in networking and hardware.  Graduated New Horizon's Cyber Defender Specialty Bootcamp.
+
+**Skills:** *Cisco, Windows Server, Checkpoint, Microsoft System Center Configuration Manager*
+
+---
+
+#### Operations Manager, Systems Administration</br>
+Mar 2007 – Aug 2010 - USMC (Marines) – Miramar, CA
+
+Led a team of systems and network administrators deploying and managing military data systems.
+
+**Achievements:** Earned Two Colonel's coins for the successful rapid deployment of Service Pack 26 across entire west coast fleet of Tactical Battle Management Core Systems. First successful cross-regional HA over SIPRnet VPNs in over three years during single month deployment.  Earned Honor Graduate, Top of Class, Iron Man, and Meritorious MAST certifications upon graduating Tactical Data Systems Administrator School.  
+
+**Skills:** *SafeNET VPN, Window Server 2k, SSL Proxy, Cisco Routers, Oracle Database, SAMBA Server, Active Directory, Unix, RAID controllers, VMWare, Air Tracking Software*
+
+---
+
+### Education and Training
+
+Western Governor's University - Bachelor's Degree in Computer Science</br>
+Udemy - Data Science Bootcamp</br>
+Coursera - Architecting w/ GCP</br>
+New Horizons Kansas City - Cyber Defender Specialty Bootcamp</br>
+U.S. Marine Corps - Tactical Data Systems Administration School</br>
+
+### Certifications
+CISSP, Oracle SQL Assoc, DevOps Foundations, ITIL Service Mgmt. Microsoft MCSA & MCSE, CIW HTML5/CSS3, Net+, A+, Project+, CISCO CCNA, Palo Alto CNSE & CNSA, Bluecoat BCCA & BCCP, Checkpoint CCMSE & CCSA & CCSE, LogRhythm LCDE & LCP, Marines TDSA
+
+
+### Published 
+
+#### Projects
+- ML Game Sales Prediction
+- [Dijkstra's Delivery Path Finder](https://github.com/jimclair/DeliveryPathFinder)
+- [AI Career Advice Chatbot](https://github.com/jimclair/CareerAdvisorBot)
+- [Team Scheduler](https://github.com/jimclair/TeamScheduler)
+- [Inventory System](https://github.com/jimclair/InventorySystem)
+- Robotics Simulation
+- [Student Roster](https://github.com/jimclair/StudentRoster)
+
+
+#### Authored
+- [Splunk Integration Guide](https://docs.logrhythm.com/devices/docs/syslog-splunk) (authored original version)
+- [LRCloud Original Reference Architectures](https://docs.logrhythm.com/deploy/7.15.0/logrhythm-reference-architecture#id-(7.15.0)LogRhythmReferenceArchitecture-GoogleCloudPlatformReferenceArchitecture) (authored original version)
+- [Federal Information Processing Standards (FIPS)](https://docs.logrhythm.com/lrsiem/7.15.0/federal-information-processing-standards-fips) (authored 7.x first version)
+- [Custom STIX/TAXII Threat Provider feeds](https://community.logrhythm.com/t5/Training-and-Reference/Custom-STIX-TAXII-Threat-Provider-feeds/ta-p/20051) (requires community login)
+- [LogRhythm Diagnostic Module User Guide](https://docs.logrhythm.com/kbmodules/docs/logrhythm-diagnostic-module-user-guide) (authored original version)
+- [Install a LogRhythm HA + DR Combined Solution](https://docs.logrhythm.com/deploy/7.15.0/install-a-logrhythm-ha-dr-combined-solution) (authored 7.x first version)
+- [184 posts and 24 solutions on LogRhythm Community](https://community.logrhythm.com/t5/user/viewprofilepage/user-id/1637) (requires community login)
+
+
+
+
+
