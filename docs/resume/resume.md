@@ -12,15 +12,15 @@
     </style>
 </head>
 <body style="margin: 0; padding: 0;">
-<div style="font-size: 12px;">
-<div style="display: flex; justify-content: space-between; margin-top: 0px; padding-top: 0px; margin-right: 20px; margin-bottom: 20px; background-color: #50AFEC;">
-    <div style="padding-left: 10px text-align: left; align-items: center; display: flex;">
-        <div style="margin-left: 15px">
-        <h2 style="color: #2a2a2a; font-size: 28px; margin-bottom: 0; border-bottom: 0;">
-            Jim Clair BSCS, CISSP, Veteran
+<div style="font-size: 12px; margin: 0; padding: 0;">
+<div style="display: flex; justify-content: space-between; background-color: #50AFEC;">
+    <div style="padding-left: 10px text-align: left; align-items: center; margin: 0;">
+        <div style="margin-left: 15px; margin-top: 0;">
+        <h2 style="color: #2a2a2a; font-size: 28px; margin-bottom: 0; border-bottom: 0; padding-bottom: 0;">
+            Jim Clair BSCS, CISSP
         </h2>
-        <h3 style="color: #454545; font-size: 24px; margin-top: 5px; border-bottom: 0;">
-            Cloud, Platform, DevOps Engineer
+        <h3 style="color: #454545; font-size: 24px; margin-top: 0px; border-bottom: 0; padding-top: 0">
+            Cloud Software Engineer
         </h3>
         </div>
     </div>
@@ -34,27 +34,27 @@
     </div>
 </div>
 
-<center style="margin: 5px; height: 40px">
+<center style="margin: 15px; height: 40px">
     <img src="img/python.jpeg" alt="python">
     <img src="img/k8s.png" alt="k8s">
-    <img src="img/tf.png" alt="tf">
-    <img src="img/aws.jpeg" alt="aws">
+    <img src="img/aws.png" alt="aws">
     <img src="img/psql.png" alt="psql">
+    <img src="img/tf.jpeg" alt="tf"">
     <img src="img/docker.png" alt="docker">
     <img src="img/gh.png" alt="gh">
-    <img src="img/grafana.jpeg" alt="grafana">
+    <img src="img/grafana.png" alt="grafana">
     <img src="img/prometheus.png" alt="prometheus">
     <img src="img/es.png" alt="es">
     <img src="img/istio.png" alt="istio">
 </center>
-</br>
 
-With 18 years of experience in engineering, operations, and security, I specialize in cloud-native platforms, microservice architectures, enterprise infrastructure, and scalable data pipelines. My background in all aspects of software engineering allows me to drive successful projects and mentor teams to achieve excellence.
+<p style="font-weight: bold; font-size: 13px">With 18 years of experience in software engineering, operations, and security, I specialize in cloud-native platforms, microservice architectures, enterprise infrastructure, and scalable data pipelines. My background in all aspects of software engineering allows me to drive successful projects and mentor teams to achieve excellence.</p>
+
+---
 
 ### Professional Experience
 
 #### Senior Software Engineer - Data Platform & Pipeline</br>
-
 Jul 2023 - Jan 2024; Select Star Inc. (Remote)
 
 Designing, refactoring, building, securing and supporting enterprise pipeline and platform with a focus on collection, ingestion, processing and analysis of Datawarehouse and Business Ingelligence data.
@@ -65,7 +65,6 @@ Designing, refactoring, building, securing and supporting enterprise pipeline an
 
 ---
 #### Staff Integration Engineer</br>
-
 Feb 2023 - Jun 2023; Solv. (Remote)
 
 Led and mentored team in new greenfield development initiative to create a cloud-native scalable integration platform.
@@ -76,7 +75,6 @@ Led and mentored team in new greenfield development initiative to create a cloud
 
 ---
 #### Tech Lead Cloud Platform Engineering</br>
-
 Aug 2018 - Sep 2022 - LogRhythm Inc. (Remote)
 
 Created, led, and mentored a team of highly skilled engineers while researching, designing, and implementing industry best practice tools and frameworks. Building a cost-effective, highly-available and scalable, multi-tenant platform, pipeline, and infrastructure supporting up to a million messages per second.
@@ -98,7 +96,6 @@ Served as LogRhythm product expert on DevOps team while migrating LogRhythm’s 
 ---
 
 #### Global Technical Release Manager</br>
-
 April 2016 - July 2017 - LogRhythm Inc. (Hybrid)
 
 Delivered software to customers and internal teams through the development of documentation, feedback, User Acceptance Testing, bug management, and release consulting.  Served part-time TierIV escalations engineer contributing directly to the development of the core product.
@@ -110,7 +107,6 @@ Delivered software to customers and internal teams through the development of do
 ---
 
 #### Enterprise Team Lead & Senior Professional Services Consultant</br>
-
 October 2014 - March 2016 - LogRhythm Inc. (Boulder, CO)
 
 Led team that designed, operated, and scaled Security Operations Centers for large enterprise customers. Overcame some of the company’s toughest projects through carefully crafted solution architectures. Provided team management, mentorship, training, and guidance.
@@ -168,7 +164,6 @@ Led a team of systems and network administrators deploying and managing military
 <tr style="border: none; background-color: transparent; vertical-align: top;">
 <td style="border: none;">
 
-
 ### Education and Training
 
 **Western Governor's University** - Bachelor's Degree in Computer Science</br>
@@ -189,39 +184,37 @@ CISSP, Oracle SQL Assoc, DevOps Foundations, ITIL Service Mgmt. Microsoft MCSA &
 
 
 <tr style="border: none; background-color: transparent; vertical-align: top;">
-<td style="padding-left: 0px; border: none;">
+<td style="border: none;">
 
-### Authored Works
+### Published Projects
 
-- [EventProcessingServiceArchitecure.md](https://github.com/jimclair/portfolio/blob/main/docs/EventProcessingServiceArchitecure.md)
-- [OLAP_OLEP_OLTP_And_DataMeshes.md](https://github.com/jimclair/portfolio/blob/main/docs/OLAP_OLEP_OLTP_And_DataMeshes.md)
-- [Splunk Integration Guide](https://docs.logrhythm.com/devices/docs/syslog-splunk) (authored original version)
-- [LRCloud Original Reference Architectures](https://docs.logrhythm.com/deploy/7.15.0/logrhythm-reference-architecture#id-(7.15.0)LogRhythmReferenceArchitecture-GoogleCloudPlatformReferenceArchitecture) (authored original version)
-- [Alarm Best Practices Database and Guide](https://docs.logrhythm.com/kbmodules/docs/logrhythm-diagnostic-module-user-guide)
-- [Federal Information Processing Standards (FIPS)](https://docs.logrhythm.com/lrsiem/7.15.0/federal-information-processing-standards-fips) (authored 7.x first version)
-- [Custom STIX/TAXII Threat Provider feeds](https://community.logrhythm.com/t5/Training-and-Reference/Custom-STIX-TAXII-Threat-Provider-feeds/ta-p/20051) (requires community login)
-- [LogRhythm Diagnostic Module User Guide](https://docs.logrhythm.com/kbmodules/docs/logrhythm-diagnostic-module-user-guide) (authored original version)
-- [Install a LogRhythm HA + DR Combined Solution](https://docs.logrhythm.com/deploy/7.15.0/install-a-logrhythm-ha-dr-combined-solution) (authored 7.x first version)
-- [184 posts and 24 solutions on LogRhythm Community](https://community.logrhythm.com/t5/user/viewprofilepage/user-id/1637) (requires community login)
-
-
+[ML Game Sales Prediction](https://github.com/jimclair/ML_Game_Sales_Forecasting)</br>
+[Dijkstra's Delivery Path Finder](https://github.com/jimclair/DeliveryPathFinder)</br>
+[TerraformNginxHADemo](https://github.com/jimclair/TerraformNginxHADemo)</br>
+[PokemonsterClientAndAPI](https://github.com/jimclair/PokemonsterClientAndAPI)</br>
+[AI Career Advice Chatbot](https://github.com/jimclair/CareerAdvisorBot)</br>
+[Team Scheduler](https://github.com/jimclair/TeamScheduler)</br>
+[Inventory System](https://github.com/jimclair/InventorySystem)</br>
+[Student Roster](https://github.com/jimclair/StudentRoster)</br>
+[EventProcessingArchitecture](https://github.com/jimclair/portfolio/blob/main/docs/EventProcessingArchitecture.png)</br>
 
 
 </td>
 
-<td style="padding-left: 0px; border: none;">
+<td style="border: none;">
 
-### Published Projects
+### Authored Works
 
-- [ML Game Sales Prediction](https://github.com/jimclair/ML_Game_Sales_Forecasting)
-- [Dijkstra's Delivery Path Finder](https://github.com/jimclair/DeliveryPathFinder)
-- [TerraformNginxHADemo](https://github.com/jimclair/TerraformNginxHADemo)
-- [PokemonsterClientAndAPI](https://github.com/jimclair/PokemonsterClientAndAPI)
-- [AI Career Advice Chatbot](https://github.com/jimclair/CareerAdvisorBot)
-- [Team Scheduler](https://github.com/jimclair/TeamScheduler)
-- [Inventory System](https://github.com/jimclair/InventorySystem)
-- [Student Roster](https://github.com/jimclair/StudentRoster)
-- [EventProcessingArchitecture](https://github.com/jimclair/portfolio/blob/main/docs/EventProcessingArchitecture.png)
+[EventProcessingServiceArchitecure.md](https://github.com/jimclair/portfolio/blob/main/docs/EventProcessingServiceArchitecure.md)</br>
+[OLAP_OLEP_OLTP_And_DataMeshes.md](https://github.com/jimclair/portfolio/blob/main/docs/OLAP_OLEP_OLTP_And_DataMeshes.md)</br>
+[Splunk Integration Guide](https://docs.logrhythm.com/devices/docs/syslog-splunk) (authored original version)</br>
+[LRCloud Original Reference Architectures](https://docs.logrhythm.com/deploy/7.15.0/logrhythm-reference-architecture#id-(7.15.0)LogRhythmReferenceArchitecture-GoogleCloudPlatformReferenceArchitecture) (authored original version)</br>
+[Alarm Best Practices Database and Guide](https://docs.logrhythm.com/kbmodules/docs/logrhythm-diagnostic-module-user-guide)</br>
+[Federal Information Processing Standards (FIPS)](https://docs.logrhythm.com/lrsiem/7.15.0/federal-information-processing-standards-fips) (authored 7.x first version)</br>
+[Custom STIX/TAXII Threat Provider feeds](https://community.logrhythm.com/t5/Training-and-Reference/Custom-STIX-TAXII-Threat-Provider-feeds/ta-p/20051) (requires community login)</br>
+[LogRhythm Diagnostic Module User Guide](https://docs.logrhythm.com/kbmodules/docs/logrhythm-diagnostic-module-user-guide) (authored original version)</br>
+[Install a LogRhythm HA + DR Combined Solution](https://docs.logrhythm.com/deploy/7.15.0/install-a-logrhythm-ha-dr-combined-solution) (authored 7.x first version)</br>
+[184 posts and 24 solutions on LogRhythm Community](https://community.logrhythm.com/t5/user/viewprofilepage/user-id/1637) (requires community login)</br>
 
 </td>
 </tr>
