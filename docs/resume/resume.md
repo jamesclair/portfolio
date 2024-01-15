@@ -19,7 +19,7 @@
             Jim Clair BSCS, CISSP
         </h2>
         <h3 style="color: #454545; font-size: 24px; margin-top: 0px; border-bottom: 0; padding-top: 0">
-            Cloud Software Engineer
+            Cloud Platform Software Engineer
         </h3>
         </div>
     </div>
