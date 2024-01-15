@@ -1,4 +1,3 @@
-
 <head>
     <title>Image Row</title>
     <style>
@@ -7,7 +6,7 @@
         }
         .image-row img {
             margin: 5px;
-            height: 100px; /* Adjust the height as needed */
+            height: 100px;
         }
     </style>
 </head>
@@ -48,7 +47,9 @@
     <img src="img/istio.png" alt="istio">
 </center>
 
-<p style="font-weight: bold; font-size: 13px">With 18 years of experience in software engineering, operations, and security, I specialize in cloud-native platforms, microservice architectures, enterprise infrastructure, and scalable data pipelines. My background in all aspects of software engineering allows me to drive successful projects and mentor teams to achieve excellence.</p>
+<p style="font-weight: bold; font-size: 13px">
+With 18 years of experience in software engineering, operations, and security, I specialize in cloud-native platforms, microservice architectures, enterprise infrastructure, and scalable data pipelines. My background in all aspects of software engineering allows me to drive successful projects and mentor teams to achieve excellence.
+</p>
 
 ---
 
@@ -57,19 +58,19 @@
 #### Senior Software Engineer - Data Platform & Pipeline</br>
 Jul 2023 - Jan 2024; Select Star Inc. (Remote)
 
-Designing, refactoring, building, securing and supporting enterprise pipeline and platform with a focus on collection, ingestion, processing and analysis of Datawarehouse and Business Ingelligence data.
+Designing, refactoring, building, securing and supporting enterprise pipeline and platform with a focus on collection, ingestion, processing and analysis of datawarehouse and business ingelligence data.
 
-**Achievements:** Enabled asyncronous and parallel data collection and ingestion. Improve pipeline testability with ingested batch persistence layer.  Introduced ability to combine multiple parsing engines. Designed foundations of next-gen scalable data pipeline architecture. Up to 700% load-time optimization of multiple web pages backed by SQL.
+**Achievements:** Enabled asyncronous and parallel data collection and ingestion. Improve pipeline testability by adding an ingested batch persistence layer.  Introduced ability to combine multiple parsing engines. Designed foundations of next-gen scalable data pipeline architecture. Up to 700% load-time optimization of multiple web pages backed by SQL.
 
-**Skills:** *Django, Celery, Python, Kubernetes, AWS, Docker, PostgreSQL, Prometheus, Grafana, Sentry, Snowflake, Redshift, Github Actions, Git, Bash, Terraform, Swagger, Postman, REST, Vanta*
+**Skills:** *Django, Celery, Python, Kubernetes, AWS, Docker, PostgreSQL, Prometheus, Grafana, Sentry, Snowflake, Github Actions, Git, Bash, Terraform, REST, Postman*
 
 ---
 #### Staff Integration Engineer</br>
 Feb 2023 - Jun 2023; Solv. (Remote)
 
-Led and mentored team in new greenfield development initiative to create a cloud-native scalable integration platform.
+Led and mentored team in new greenfield development foundations to create a cost-effective and scalable integration platform.
 
-**Achievements:** Created unified DevEx provisioning to serve as the foundations of next generation platform. Partner refactor of Athena scheduling api integrations.  Introduced Sentry Cron alerting for long running integration jobs. 
+**Achievements:** Created unified provisioning bootstrap to serve as the foundations of next generation platform. Partner refactor of Athena scheduling api integrations.  Introduced Sentry Cron alerting for long running integration jobs.
 
 **Skills:** *Python, Docker, Heroku, REACT, Grafana, Prometheus, Athena, Sentry, PostgreSQL, Confluence, Jira, Postman, REST, HIPAA, SOC2*
 
@@ -81,7 +82,7 @@ Created, led, and mentored a team of highly skilled engineers while researching,
 
 **Achievements:** Lead the technical development of infrastructure for the new Axon cloud-native platform over 3.5 years with a public launch in early 2022.  Developed comprehensive Kubernetes Operators for Opensearch, Flink, and LogRhythm Microservices/Microfrontends.  Created a high performance multi-tenant data pipeline with enterprise service bus, self-serve domain-specific relational databases, central time-series and tiered storage nosql database, and tenant specific real-time analytics job clusters.  Implemented fully secure and automated development golden paths for localdev and CICD. Automated creation, re-creation and configuration of templated GitOps infrastructure as code environments and platforms.  Full migration and integration of newly acquired Mistnet software into gold standard CICD and platform.  Providing best practice secure and public access to APIs and WebUIs through identity federated role-based access. Founded and staffed "Colossus of Cloud", a team of highly successful and skilled engineers.  Earned my Bachelor's in Computer Science and completed the complete data science bootcamp on Udemy.
 
-**Skills:** *Kubernetes, AWS, Terraform, ArgoCD, Ansible,  SQL, Docker, Python, Javascript, Yeoman, Golang, Bash, KubeBuilder, Elastic/Opensearch, Kafka, Strimzi, PostgreSQL, Zalando, Flink, Quarkus, Java, Maven, GitHub Actions, Git, Istio, Vault, Prometheus, Grafana, Loki, Keycloak, Okta, GoPass, External Secrets, Certificates Manager, HAProxy, Jaeger, Pomerium, LogRhythm, \*Nix, Salt, Veracode, REST, Kiali, Sysdig, Powershell, Jinja, EJS, RegEx, Lets Encrypt, Wireshark, Yarn, Mistnet, Confluence, Jira, Rally, Postman, Zero Trust Architecture, SOC2, FedRAMP*
+**Skills:** *Kubernetes, AWS, Terraform, ArgoCD, Ansible, SQL, Docker, Python, Javascript, Yeoman, Golang, Bash, KubeBuilder, Elastic/Opensearch, Kafka, Strimzi, PostgreSQL, Zalando, Flink, Quarkus, Java, Maven, GitHub Actions, Git, Istio, Vault, Prometheus, Grafana, Loki, Keycloak, Okta, GoPass, External Secrets, Certificates Manager, HAProxy, Jaeger, Pomerium, LogRhythm, \*Nix, Salt, Veracode, REST, Postman, Kiali, Sysdig, Powershell, Jinja, EJS, RegEx, Lets Encrypt, Wireshark, Yarn, Mistnet, Confluence, Jira, Rally, Zero Trust Architecture, SOC2, FedRAMP*
 
 ---
 #### Cloud DevOps Engineer III</br>
@@ -89,18 +90,18 @@ Jul 2017 - Aug 2018 - LogRhythm Inc. (Hybrid)
 
 Served as LogRhythm product expert on DevOps team while migrating LogRhythm’s core services to a SAAS offering hosted on Google Cloud Platform.
 
-**Achievements:** Developed de facto reference architecture and sizing guides for new cloud service offering.  Automated deployment of LogRhythm core services to Google Cloud Compute environment within targeted profit margins.  Earned certifications in DevOps foundations, ITIL service management, Oracle SQL, and web development.
+**Achievements:** Developed de facto reference architecture and sizing guides for new cloud service offering.  Automated deployment of LogRhythm core services to Google Cloud Compute environment.  Earned certifications in DevOps foundations, ITIL service management, Oracle SQL, and web development.
 
-**Skills:** *Google Cloud, Rundeck, LogRhythm, Consul, Telegraph, InfluxDB, Grafana, SQL Server, Elasticsearch, Ansible, Python, Apache HTTP Server, Salt, Linux, Windows Server, RegEx, Lets Encrypt, Wireshark, Confluence, Jira, REST*
+**Skills:** *Google Cloud, Rundeck, LogRhythm,  Ansible, Python, Consul, Telegraph, InfluxDB, Grafana, SQL Server, Elasticsearch, Apache HTTP Server, Salt, Linux, Windows Server, RegEx, Lets Encrypt, Wireshark, Confluence, Jira, REST*
 
 ---
 
 #### Global Technical Release Manager</br>
 April 2016 - July 2017 - LogRhythm Inc. (Hybrid)
 
-Delivered software to customers and internal teams through the development of documentation, feedback, User Acceptance Testing, bug management, and release consulting.  Served part-time TierIV escalations engineer contributing directly to the development of the core product.
+Delivered software to customers and internal teams through the development of release consulting, documentation, feedback, User Acceptance Testing, and bug management.  Served part-time as TierIV escalations engineer contributing improvements and fixes directly to the core product.
 
-**Achievements:** Successfully revived and rebuilt the Early Access Beta Program into a cross-organization effort that incrementally introduced software releases while gaining early feedback and re-establishing customer trust.  Developed FIPS configuration, High Availability, and Disaster Recovery guides for new next generation deployment architectures.  Created Splunk Integration Guide allowing bulk exportation of data from Splunk to LogRhythm and easing the process of migration from our competitor.  Co-Rebuilt the Release Champion Program tripling internal content contributions, improving cross-organizational relationships, and chopping our release cycle down from 1 year to 6 months.  Co-Managed over 4 new product launches, 5 major and 23 minor relases.  Authored Threat Intelligence Provider Service and LogRhythm SIEM to CloudAI integration guides.  Continuously provided consultation and optimizations helping to scale beyond the 200k and 300k Messages Per Second benchmarks.  Co-Authored and led tiger team in the creation of a comprehensive Advanced Intelligence Engine best practice guide.  Earned certifications in Project+.
+**Achievements:** Successfully revived and managed the Global Early Access Beta Program into a cross-organizational effort that incrementally introduced software releases while gaining early feedback and re-establishing customer trust.  Developed FIPS, High Availability, and Disaster Recovery guides for new next generation deployment architectures.  Created Splunk Integration Guide allowing bulk exportation of data from Splunk to LogRhythm and easing the process of migration from our competitor.  Co-Rebuilt the Release Champion Program tripling internal content contributions, improving cross-organizational relationships, and chopping our release cycle down from 1 year to 6 months.  Co-Managed over 4 new product launches, 5 major and 23 minor relases.  Authored Threat Intelligence Provider Service and LogRhythm SIEM to CloudAI integration guides.  Continuously provided consultation and optimizations helping to scale beyond the 200k and 300k Messages Per Second benchmarks.  Co-Authored and led tiger team in the creation of a comprehensive Advanced Intelligence Engine best practice guide.  Earned certifications in Project+.
 
 **Skills:** *LogRhythm Advanced Intelligence Engine, Splunk, CloudAI, Windows Server, Elasticsearch, PowerShell, Bash, Python, REST, STIX/TAXII, Postman, FIPS, HIPAA, PCI, NIST CSF, Behavioral Analytics, Threat Intelligence Services, Crystal Reports, C2 Auditing, Alarm and Event Mangagement, Syslog, API collection, database collection, file collection, stream collection, data processing analytics and management*
 
@@ -114,7 +115,7 @@ Led team that designed, operated, and scaled Security Operations Centers for lar
 **Achievements:** Successfully lead LogRhythm's largest enterprise deployment consisting of more than 30 Data Indexer, 28 Data processor, 4 Platform Manager, 4 Event Manager, 4 Advance Intelligence Engine(AIE), 4 Metadata, 4 Archival, and 4 Network Monitor servers over the course of a year, reaching 100k and 150k Messages Per Second(MPS) ingestion benchmarks.  Significantly reduced correlation gaps in Advanced Intelligence Engine for customers exceeding 90k MPS limit by developing framework for routing events to proper Engine on a per use-case basis.  Invented the Data Dictionary to help customers categorize parsed metadata from hundreds of supported logging sources. Created the TTL Projection Tool to calculate storage usage and requirements based on logging rates and average log sizes. Developed and published the Alarm Best Practices Database and Guide to provide and maintain recommended steps for pre-defined alarms a customer may receive.
 
 
-**Skills:** *LogRhythm, SQL Server, Elasticsearch, Access, Powershell, Bash, Windows Server, FIPS, HIPAA, PCI, NIST CSF, NIST 800-53, ISO 27001, Behavioral Analytics, Crystal Reports, C2 Auditing, Alarm and Event Mangagement, Syslog, API collection, database collection, file collection, stream collection, data processing analytics and management*
+**Skills:** *LogRhythm, SQL Server, Elasticsearch, Powershell, Bash, Windows Server, Microsoft Access, Excel, FIPS, HIPAA, PCI, NIST CSF, NIST 800-53, ISO 27001, Behavioral Analytics, Crystal Reports, C2 Auditing, Alarm and Event Mangagement, Syslog, API collection, database collection, file collection, stream collection, data processing analytics and management*
 
 ---
 
@@ -125,7 +126,7 @@ Administration, on-boarding, and security consulting for enterprise customers. I
 
 **Achievements:** Co-Designed comprehensive SIEM/tool agnostic threat defense framework categorizing customer assets into groups for utilization in threat detection rules, reports and filtering.  Successfully On-boarded over 12 enterprise SIEM customers each with different architectures, compliances, and use-cases.  Earned 2 certification in LogRhythm.
 
-**Skills:** *LogRhythm, McAfee Nitro, Qradar, IBM Arcsight, SQL Server, compliance consulting, onboarding and integrations, cybersecurity framework creation and implementation*
+**Skills:** *LogRhythm, McAfee Nitro, Qradar, IBM Arcsight, SQL Server, compliance consulting, onboarding and integrations, cybersecurity framework creation and implementation, Alarm and Event Mangagement, Syslog, API collection, database collection, file collection, stream collection, data processing analytics and management*
 
 ---
 
@@ -177,7 +178,7 @@ Led a team of systems and network administrators deploying and managing military
 <td style="border: none;">
 
 ### Certifications
-CISSP, Oracle SQL Assoc, DevOps Foundations, ITIL Service Mgmt. Microsoft MCSA & MCSE, CIW HTML5/CSS3, Net+, A+, Project+, CISCO CCNA, Palo Alto CNSE & CNSA, Bluecoat BCCA & BCCP, Checkpoint CCMSE & CCSA & CCSE, LogRhythm LCDE & LCP, Marines TDSA
+CISSP, ITIL Service Management, Microsoft MCSA & MCSE, Project+, Oracle SQL Assoc, CISCO CCNA. DevOps Foundations, CIW HTML5/CSS3, Net+, A+, Palo Alto CNSE & CNSA, Bluecoat BCCA & BCCP, Checkpoint CCMSE & CCSA & CCSE, LogRhythm LCDE & LCP, Marines Tactical Data Systems Administrator
 
 </td>
 </tr>
